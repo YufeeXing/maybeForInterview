@@ -2,13 +2,14 @@
 JS实现Polyfill或者leetcode
 
 ### Polyfill
-- bind
-- reduce
-- curry
+- [bind](https://github.com/YufeeXing/maybeForInterview/blob/main/polyfill/bind.js)
+- [reduce](https://github.com/YufeeXing/maybeForInterview/blob/main/polyfill/reduce.js)
+- [curry](https://github.com/YufeeXing/maybeForInterview/blob/main/polyfill/curry.js)
 
 ### leetcode
-- 两数之和
-- 整数反转
+- [两数之和](https://github.com/YufeeXing/maybeForInterview/blob/main/leetcode/twoSum.js)
+- [整数反转](https://github.com/YufeeXing/maybeForInterview/blob/main/leetcode/reverseInterger.js)
 
-### othen
-- 拍平树结构数据
+### other
+- [拍平树结构数据](https://github.com/YufeeXing/maybeForInterview/blob/main/other/flatTree.js)
+- [反转链表](https://github.com/YufeeXing/maybeForInterview/blob/main/other/reverseLink.js)
