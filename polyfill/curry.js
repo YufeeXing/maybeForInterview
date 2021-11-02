@@ -1,4 +1,4 @@
-// 实现柯里化函数
+// js实现柯里化函数
 
 function add(x, y) {
   return x + y;
