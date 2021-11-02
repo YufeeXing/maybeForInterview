@@ -18,5 +18,4 @@ function curry(fn) {
 }
 
 const addCurry = curry(add);
-
 console.log(addCurry(1)(2));
