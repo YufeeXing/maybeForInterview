@@ -11,6 +11,7 @@ Polyfill或者leetcode等一些常见的简单算法js实现
 - [整数反转](https://github.com/YufeeXing/maybeForInterview/blob/main/leetcode/reverseInterger.js)
 - [回文数](https://github.com/YufeeXing/maybeForInterview/blob/main/leetcode/回文数.js)
 - [罗马数字](https://github.com/YufeeXing/maybeForInterview/blob/main/leetcode/罗马数字leecode13.js)
+- [最长不重复子串](https://github.com/YufeeXing/maybeForInterview/blob/main/leetcode/最长不重复子串.js)
 
 ### other
 - [拍平树结构数据](https://github.com/YufeeXing/maybeForInterview/blob/main/other/flatTree.js)
