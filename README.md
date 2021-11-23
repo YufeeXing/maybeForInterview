@@ -1,5 +1,5 @@
 # maybeForInterview
-Polyfill或者leetcode等一些常见的简单算法js实现
+Polyfill或者leetcode等一些常见的算法js实现
 
 ### Polyfill
 - [bind](https://github.com/YufeeXing/maybeForInterview/blob/main/polyfill/bind.js)
