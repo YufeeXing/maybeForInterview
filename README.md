@@ -18,3 +18,4 @@ Polyfill或者leetcode等一些常见的简单算法js实现
 - [拍平树结构数据](https://github.com/YufeeXing/maybeForInterview/blob/main/other/flatTree.js)
 - [反转链表](https://github.com/YufeeXing/maybeForInterview/blob/main/other/reverseLink.js)
 - [二分查找](https://github.com/YufeeXing/maybeForInterview/blob/main/other/二分查找.js)
+- [判断密码强度](https://github.com/YufeeXing/maybeForInterview/blob/main/other/判断密码强度.js)
